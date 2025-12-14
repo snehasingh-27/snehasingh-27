@@ -17,3 +17,6 @@ and projects built to deeply understand how things actually work.
 
 #### Connect
 LinkedIn:(https://www.linkedin.com/in/snehasingh2784)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=snehasingh-27&show_icons=true&hide_title=true&hide_border=true)
